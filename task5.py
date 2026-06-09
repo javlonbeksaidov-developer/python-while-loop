@@ -29,4 +29,4 @@ while True:
         continue
 
 print(f"Siz {hisoblagich} marta 'matn' so'zini kiritdingiz!")
-        
+  
